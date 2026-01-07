@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.01.07 18:34:56.791,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.01.07 18:34:56.945,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
+    <Transaction>2026.01.07 18:36:20.669,D:\Projects\Programming\C\BDS\Console\Algorithms\FindMaxElemOfArray\FindMaxElemOfArrayPCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.01.07 18:36:20.680,D:\Projects\Programming\C\BDS\Console\Algorithms\FindMaxElemOfArray\File1.c=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
+    <Transaction>2026.01.07 18:36:20.690,D:\Projects\Programming\C\BDS\Console\Algorithms\FindMaxElemOfArray\FindMaxElemOfArray.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2026.01.07 18:36:47.172,D:\Projects\Programming\C\BDS\Console\Algorithms\FindMaxElemOfArray\FindMaxElemOfArray.c=D:\Projects\Programming\C\BDS\Console\Algorithms\FindMaxElemOfArray\File1.c</Transaction>
+    <Transaction>2026.01.07 18:36:49.612,D:\Projects\Programming\C\BDS\Console\Algorithms\FindMaxElemOfArray\FindMaxElemOfArray.cbproj=D:\Projects\Programming\C\BDS\Console\Algorithms\FindMaxElemOfArray\FindMaxElemOfArray.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
